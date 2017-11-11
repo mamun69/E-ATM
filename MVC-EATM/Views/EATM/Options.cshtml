@@ -1,0 +1,36 @@
+﻿@using MVC_EATM.Models
+@model MVC_EATM.Models.Account
+@{
+    ViewBag.Title = "Options";
+}
+
+<h2>Options</h2>
+<h4>What you want to do?</h4>
+<div>
+    @using (Html.BeginForm("BalanceCheck", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <button type="submit" class="btn btn-primary">Balance Check</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("BalanceWithdrawl", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <button type="submit" class="btn btn-primary">Balance Withdraw</button>
+    }
+</div>
+@*<div>
+        @using (Html.BeginForm("AccountTransaction", "EATM"))
+        {
+            <button type="submit" class="btn btn-primary">Transaction History</button>
+        }
+    </div>*@
+
+<div>
+    @using (Html.BeginForm("LoginInput", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Exit</button>
+    }
+</div>
+
+
+

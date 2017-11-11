@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "ShowAccount";
+    var i = 1;
+}
+
+<h2>Accounts</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Serial No.</th>
+        <th>Account No</th>
+        <th>Balance</th>
+
+    </tr>
+    </thead>
+    <tbody>
+        
+        @foreach (var account in Model)
+        {
+        
+
+            <tr>
+                <td>@i</td>
+                <td>@account.accountNo</td>
+                <td>@account.balance</td>
+            
+            </tr>
+            i++;
+
+        }
+    </tbody>
+</table>
+<div>
+    @using (Html.BeginForm("AdminOptions", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+</div>

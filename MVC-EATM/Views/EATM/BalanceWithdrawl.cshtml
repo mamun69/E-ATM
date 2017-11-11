@@ -1,0 +1,23 @@
+﻿@model MVC_EATM.Models.Account
+@{
+    ViewBag.Title = "Balance Withdrawl";
+}
+
+<h2>Balance Withdrawl</h2>
+
+<div>
+    @using (Html.BeginForm("Success", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <div class="form-group">
+            <label>Withdrawl Amount</label>
+            @Html.TextBox("amount", 0, new { @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-primary">Withdraw</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("Options", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+</div>

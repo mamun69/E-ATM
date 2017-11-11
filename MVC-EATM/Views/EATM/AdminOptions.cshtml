@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "AdminOptions";
+}
+
+<h2>Admin Options</h2>
+
+<h4>What you want to do?</h4>
+<div>
+    @using (Html.BeginForm("CreateAccount", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Create Account</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("ShowAccount", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Show Account</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("AccountTransaction", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Transaction History</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("LoginInput", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Exit</button>
+    }
+</div>

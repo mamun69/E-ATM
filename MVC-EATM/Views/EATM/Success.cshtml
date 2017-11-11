@@ -1,0 +1,23 @@
+﻿@model MVC_EATM.Models.Account
+@{
+    ViewBag.Title = "Success";
+}
+
+<h4>Thank you</h4>
+
+<h5>You have success fully withdraw  @ViewBag.Message BDT</h5>
+<h5>Your current balance is @Model.balance</h5>
+<div>
+    @using (Html.BeginForm("Options", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+
+</div>
+
+<div>
+    @using (Html.BeginForm("LoginInput", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Exit</button>
+    }
+</div>

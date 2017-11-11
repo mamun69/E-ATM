@@ -1,0 +1,32 @@
+﻿@using System.Activities.Expressions
+@model MVC_EATM.Models.Account
+@{
+    ViewBag.Title = "Create Account";
+}
+
+<h2>Create Account</h2>
+
+<div>
+    @using (Html.BeginForm("CreateSuccess", "EATM"))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m => m.accountNo)
+            @Html.TextBoxFor(m => m.accountNo, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.pin)
+            @Html.TextBoxFor(m => m.pin, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.balance)
+            @Html.TextBoxFor(m => m.balance, new { @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("AdminOptions", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+</div>

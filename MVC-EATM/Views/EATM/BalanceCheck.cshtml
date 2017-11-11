@@ -1,0 +1,23 @@
+﻿@using Microsoft.Ajax.Utilities
+@model MVC_EATM.Models.Account
+@{
+    ViewBag.Title = "Balance Check";
+}
+
+
+<h2>Balance Check</h2>
+
+<h4>Your balance is @Model.balance BDT</h4>
+<div>
+    @using (Html.BeginForm("Options", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+</div>
+<div>
+    @using (Html.BeginForm("LoginInput", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Exit</button>
+    }
+</div>
+

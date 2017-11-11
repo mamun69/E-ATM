@@ -1,0 +1,46 @@
+﻿@using MVC_EATM.Models
+
+@{
+    ViewBag.Title = "Transaction History";
+}
+
+<h2>Transaction History</h2>
+
+@if (Model==null)
+{
+    <p>You don't have any transiction yeat</p>
+}
+else
+{
+    int i = 1;
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>Serial No.</th>
+            <th>Account No</th>
+            <th>Withdraw Amount</th>
+            <th>Date Time</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var history in Model)
+            {
+                
+                    <tr>
+                        <td>@i</td>
+                        <td>@history.accountNo</td>
+                        <td>@history.withdrawlAmount</td>
+                        <td>@history.transactionTime</td>
+                    </tr>
+                i++;
+            }
+        </tbody>
+    </table>
+}
+
+<div>
+    @using (Html.BeginForm("AdminOptions", "EATM"))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+</div>

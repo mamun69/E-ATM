@@ -1,0 +1,13 @@
+﻿@model MVC_EATM.Models.Account
+@{
+    ViewBag.Title = "ErrorMassage";
+}
+
+<h2>Error</h2>
+<h3 style="color: red">@ViewBag.Message</h3>
+<div>
+    @using (Html.BeginForm("Options", "EATM", new { accountNo = Model.accountNo }))
+    {
+        <button type="submit" class="btn btn-primary">Return to Options</button>
+    }
+</div>

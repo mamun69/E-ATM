@@ -1,0 +1,644 @@
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Owin.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Mamun_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+E:\Mamun_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+E:\Mamun_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+E:\Mamun_47\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.EATMInitialModel.resources
+E:\Mamun_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.EATMInitialModel.resources
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Owin.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\mamun_batch_47\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Owin.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.EATMInitialModel.resources
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+C:\Users\User\Google Drive\2017\BITM.NET\MVC-EATM-V2\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+D:\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+D:\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+D:\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+D:\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+D:\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+D:\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+D:\MVC-EATM\MVC-EATM\bin\Owin.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+D:\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+D:\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+D:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+D:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+D:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+D:\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+D:\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+D:\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+D:\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+D:\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.EATMInitialModel.resources
+D:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+D:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+D:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Owin.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.EATMInitialModel.resources
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.ThansactionHistoryEntityAdded.resources
+E:\Study\2017\BITM.NET\Projects\MVC\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.ThansactionHistoryEntityAdded1.resources
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Owin.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels.resources
+D:\Mamun\BITM\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Owin.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels.resources
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels1.resources
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels2.resources
+E:\Study\2017\BITM.NET\Projects\MVC\F-Hira\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels3.resources
+K:\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+K:\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+K:\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+K:\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+K:\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+K:\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+K:\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+K:\MVC-EATM\MVC-EATM\bin\Owin.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+K:\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+K:\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+K:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+K:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+K:\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+K:\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+K:\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+K:\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+K:\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+K:\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels.resources
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels1.resources
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels2.resources
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels3.resources
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+K:\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Owin.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels.resources
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels1.resources
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels2.resources
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels3.resources
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+C:\Users\Web App Develop .Net\Desktop\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+K:\Final\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+K:\Final\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+K:\Final\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\Owin.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+K:\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels.resources
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels1.resources
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels2.resources
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels3.resources
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+K:\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll.config
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\MVC-EATM.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\MVC-EATM.pdb
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Owin.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Razor.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\WebGrease.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Helpers.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Mvc.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Optimization.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.Razor.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Newtonsoft.Json.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Antlr3.Runtime.pdb
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels.resources
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels1.resources
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels2.resources
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC_EATM.Migrations.InitialModels3.resources
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.csproj.GenerateResource.Cache
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.dll
+C:\Users\User\Google Drive\2017\BITM.NET\Final\MVC-EATM\MVC-EATM\obj\Debug\MVC-EATM.pdb
